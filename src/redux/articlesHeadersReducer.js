@@ -5,7 +5,6 @@ const SET_ARTICLE = "SET_ARTICLE";
 
 const initialState = {
   list: [],
-  article: "",
 };
 
 export const articlesHeadersReducer = (state = initialState, action) => {

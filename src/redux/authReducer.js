@@ -6,7 +6,6 @@ const LOG_IN = "LOG_IN";
 const SET_AUTH = "SET_AUTH";
 
 const initialState = {
-  email: "",
   isAuth: false,
 };
 
